@@ -7,5 +7,7 @@ Over 100 data tutorials, particularly the Use the neonUtilities package to acces
  
 On particular alternative, that may work well for the REU students (and anyone else who’d like to join) would be doing a 1-2 hr “Access NEON” workshop webinar with them. That is analogous to the ESA webinar above but can be tailored to fit the skills and research interest of the REU students. And of course, would allow the students to ask their own questions.  If setting up something like this is of interest to a group you work with, please let me know. 
 
+See 
+https://github.com/NEONScience
 
- 
+https://github.com/ICompBioUTC/NEON-Data-Skills 
